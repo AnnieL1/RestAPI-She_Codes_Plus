@@ -1,6 +1,6 @@
-# fly.toml file generated for dark-glade-6209 on 2023-01-24T23:45:12+11:00
+# fly.toml file generated for proud-sea-7283 on 2023-01-28T09:14:38+11:00
 
-app = "dark-glade-6209"
+app = "proud-sea-7283"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
@@ -40,7 +40,3 @@ processes = []
 [[statics]]
   guest_path = "/app/public"
   url_prefix = "/static/"
-
-[mounts]
-  source = "dbvol"
-  destination = "/dbvol"
