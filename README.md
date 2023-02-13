@@ -3,9 +3,9 @@
 gofundMEEPLE* connects boardgame creators and boardgame enthusiasts together to bring boardgames to life. Creators will be able to launch their projects on gofundMEEPLE and enthusiasts can back the project by making pledges. Pledgers will be able to submit fan-based ideas for the final stretch goal**, and once/if the final stretch goal is reached creators must choose one (or more) fan-based idea and make it come to life! 
 
 *Meeple: small figures used as a playing piece in boardgames and have a similar appearance to human figures
-**Stretch goals: additional features the boardgame creators include within the boardgame once a certain amount of funding has been reached. It may differ based on pledge levels
+**Stretch goals: additional features the boardgame creators include within the boardgame once a certain amount of funding has been reached. It may differ based on pledge levels.
 
-This project has been created in Django as part of the She Codes Plus bootcamp REST API module. It involved creating the endpoints and API for a crowdfunding website. THe frontend will be built out as part of the JavaScript & React module. 
+This project has been created in Django as part of the She Codes Plus bootcamp REST API module. It involved creating the endpoints and API for a crowdfunding website. The frontend will be built out as part of the JavaScript & React module. 
 
 ## Features 
 ```
@@ -57,6 +57,6 @@ This project has been created in Django as part of the She Codes Plus bootcamp R
       i. Screenshot of Insomnia, demonstrating a successful GET method for any endpoint
       ii. Screenshot of Insomnia, demonstrating a successful POST method for any endpoint
       iii. Screenshot of Insomnia, demonstrating a token being returned
-      iv. Step by step instructions for how to register a new user and create a new project (i.e.endpoints and body data)
+      iv. Step by step instructions for how to register a new user and create a new project (i.e. endpoints and body data)
       v. API specification and database schema
 ```
