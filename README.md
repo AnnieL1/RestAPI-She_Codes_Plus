@@ -47,7 +47,7 @@ This project has been created in Django as part of the She Codes Plus bootcamp R
   
   7. Use token authentication
       i. POST: users gain their token authentication by providing correct username and password
-  
+```
   
 # Project submission
 ```
