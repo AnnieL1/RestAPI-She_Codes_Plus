@@ -1,4 +1,4 @@
-# gofundMEEPLE
+# gofundMEEPLE - Backend
 
 gofundMEEPLE* connects boardgame creators and boardgame enthusiasts together to bring boardgames to life. Creators will be able to launch their projects on gofundMEEPLE and enthusiasts can back the project by making pledges. Pledgers will be able to submit fan-based ideas for the final stretch goal**, and once/if the final stretch goal is reached creators must choose one (or more) fan-based idea and make it come to life! 
 
